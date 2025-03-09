@@ -1,1 +1,2 @@
-.terraform/*
+tf-count/.terraform/*
+tf-for_each/.terraform/*
