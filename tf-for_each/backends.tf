@@ -1,6 +1,6 @@
 terraform {
     backend "gcs" {
-        bucket = "my-gcp-project-451114-state"
+        bucket = "my-gcp-project-x-state"
         prefix = "terraform/state"
         credentials = "gcs-secret.json"
     }
